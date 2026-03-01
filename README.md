@@ -30,7 +30,7 @@ Parts:
 
 Notes:
 1. The arm switch is used to toggle controls ON or OFF.
-2. The joysticks should be placed in such a way that the X-axis sits horizontally (regular layout). For a mode-2 layout, J2 is placed on the       left and J1 is placed on the right.
+2. The joysticks should be placed in such a way that the X-axis sits horizontally (regular layout). For a mode-2 layout, J2 is placed on the       left, and J1 is placed on the right.
 3. Improving the 3.3V supply to the nRF24L01 using a 3.3V regulator, a decoupling capacitor, or a breakout board is strongly recommended.
 4. Keeping the SPI communication lines short and away from motor lines between the nRF24L01 and the Arduino is strongly recommended.
 5. Using the PA+LNA version of the nRF24L01 is strongly recommended to improve range.
